@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: c4719a08f765ece46892d9451dada53e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: env_old_bus_depot_Shader
+    second: {fileID: 2100000, guid: ffb5163a40615c6488b8ac90807ca4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_10
+    second: {fileID: 2100000, guid: 241d435a908763c4eb64b795f82c6752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_100
+    second: {fileID: 2100000, guid: ec72ff8f717855543b0fcc32b108ca7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_20
+    second: {fileID: 2100000, guid: 04ed93bdddc909b4fb7e086d1e1e314e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_30
+    second: {fileID: 2100000, guid: 4115516e8a464124cb6227cb69c7372a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_40
+    second: {fileID: 2100000, guid: 95c0b0e78d3a0e441836c72fc8c87dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_50
+    second: {fileID: 2100000, guid: e8a249b0ffde1f24b924dfddc3ab0fe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_60
+    second: {fileID: 2100000, guid: ee5042a6512bcd447a16884bd4047b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_70
+    second: {fileID: 2100000, guid: 09bba9c7dd6f4c14c893d31f935825b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_80
+    second: {fileID: 2100000, guid: 14d17cf3e38469e40bac2bd2441dcf5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meadow_90
+    second: {fileID: 2100000, guid: 09e4480ef777e9e4280fcc33e945d3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl001
+    second: {fileID: 2100000, guid: e48d533c33b1683449166939f247c535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl002
+    second: {fileID: 2100000, guid: 59756b0216426774a85a554ccdfddb07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl003
+    second: {fileID: 2100000, guid: b85feb075275df447a6259dea1bbd024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl004
+    second: {fileID: 2100000, guid: a5e19e3c421d9ce428409e7b544027d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl005
+    second: {fileID: 2100000, guid: 43138407b21b4904ab6c4a2a93245de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl006
+    second: {fileID: 2100000, guid: ee592acdd90427940926aa964883e809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl007
+    second: {fileID: 2100000, guid: aab28efc8e9ea4d4788fd68d4600c884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl008
+    second: {fileID: 2100000, guid: 8143aaba0c0d25f4eb96725cf5b4e7e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl009
+    second: {fileID: 2100000, guid: 5139edbeb233b23429fd71587629ec0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl010
+    second: {fileID: 2100000, guid: 32e9474ed5f7e3441bea277b70bf2fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl011
+    second: {fileID: 2100000, guid: 137e72588395e684486ea69447c91a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl012
+    second: {fileID: 2100000, guid: 0ed348748e5faab48b4151fcb6ac1141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl013
+    second: {fileID: 2100000, guid: 0f0fc76a146472a46aca4c4ac08a0a15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl014
+    second: {fileID: 2100000, guid: ddf2e613c8cde654787187da95b9b08e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl015
+    second: {fileID: 2100000, guid: 4e3a53506f33466408a410e4e64b6591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl016
+    second: {fileID: 2100000, guid: a732fb7304f5c494facb18aed78f80ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl017
+    second: {fileID: 2100000, guid: 5a19d2047eacd6b40b1afbe4f302afb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl018
+    second: {fileID: 2100000, guid: 5ce7203a5aef3e348a665d9e518c6dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl019
+    second: {fileID: 2100000, guid: 7f311738dbd43254cb8e9e6cd965655e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl020
+    second: {fileID: 2100000, guid: 52ea12af02528e44e85b4944b9844185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl021
+    second: {fileID: 2100000, guid: 97e3903503116214da7aba774bd341fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl022
+    second: {fileID: 2100000, guid: 14ad484201e60644fabd0f2acd11175c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl023
+    second: {fileID: 2100000, guid: e4c4090e3e4e93d478e9fcee961418cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl024
+    second: {fileID: 2100000, guid: 96fd916ab2280f04db64694cc38f83b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl025
+    second: {fileID: 2100000, guid: 91b06cfd916435241bbf4e0683b22d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl026
+    second: {fileID: 2100000, guid: 3f315709b46734541a3fc0a23f468d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl027
+    second: {fileID: 2100000, guid: 238bbf5eecd9fcf4d8a8ec3fb7183aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl028
+    second: {fileID: 2100000, guid: cf818bc8192e7fe4192084a7bc65a7f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl029
+    second: {fileID: 2100000, guid: 20119ff6e0313524bb0cb6d763c4a717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl030
+    second: {fileID: 2100000, guid: 30d00316d4bfd7a4cb93833cdee353d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl031
+    second: {fileID: 2100000, guid: 442edd74b8901d848ba72f0ea6747a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl033
+    second: {fileID: 2100000, guid: d0968ccb065f26745b9cd688f7fc3967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl034
+    second: {fileID: 2100000, guid: 59567f2adc0a41743ad0244002f58894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl035
+    second: {fileID: 2100000, guid: 6e507e55d5d792b458aaa3f22d00f621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl036
+    second: {fileID: 2100000, guid: 19f1648ac0728e542bda9a450297f192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl037
+    second: {fileID: 2100000, guid: 8c37e1ac4b25fac4ea7a5e682d0ade54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl038
+    second: {fileID: 2100000, guid: 84453bef4c52f28489177b9307a57c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl039
+    second: {fileID: 2100000, guid: 32417a34410c1a144bfb533088f4d3b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl040
+    second: {fileID: 2100000, guid: 63ef547eb9868734a838c190812f9a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl041
+    second: {fileID: 2100000, guid: f53d841d2dc88e74e94d5e6964ed904a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl042
+    second: {fileID: 2100000, guid: 81fe77ac625ab624b8c2bc683c297b82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl043
+    second: {fileID: 2100000, guid: ef56385309a07724ea54b7e9122cf6fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl044
+    second: {fileID: 2100000, guid: 4f42bfc411ca5fc47b384664767eae58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl045
+    second: {fileID: 2100000, guid: f4dc183cb60bca54299be135ff2f3e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl046
+    second: {fileID: 2100000, guid: 4657b2825406ad04db685490f555923e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl047
+    second: {fileID: 2100000, guid: 8a8ac1f3b52c08d41bdaf40ff933b465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl048
+    second: {fileID: 2100000, guid: 3d45a2658a2e81541bf3c2e26265b478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl049
+    second: {fileID: 2100000, guid: 4b4366998dcc0044787839e37fb865e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl050
+    second: {fileID: 2100000, guid: 95750323251027247a3b570978824093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl051
+    second: {fileID: 2100000, guid: 10154b2b25bbfcd4188496ffb1326f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl052
+    second: {fileID: 2100000, guid: 7cf2fbea2f6e7204a91bd97144d191d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl053
+    second: {fileID: 2100000, guid: 7f7366869a661cd4c8a3259f2fe82b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl054
+    second: {fileID: 2100000, guid: 58ef0253b58e00847b797c6dc2a201f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl055
+    second: {fileID: 2100000, guid: 9c4537ff615280e4bb122b8b26aef1e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl056
+    second: {fileID: 2100000, guid: 645e6aa7c534283498b94450d2ea855c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl057
+    second: {fileID: 2100000, guid: f1c9a70f0a145f448b3b5904ecc4ceca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl058
+    second: {fileID: 2100000, guid: ff18147843132a94da5eeaba97d6daf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl059
+    second: {fileID: 2100000, guid: 598f682f309cc6543b7db729cb94f60e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl060
+    second: {fileID: 2100000, guid: cdf145aaa8d14404d999e3dc14e12114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl061
+    second: {fileID: 2100000, guid: 5c92f8911c89f8c4ebbb6dfd369d1032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl062
+    second: {fileID: 2100000, guid: 4544246946b4aec4d873f68604d659cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl063
+    second: {fileID: 2100000, guid: e797b1b51750b5941bd3f3d43b7c8411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl064
+    second: {fileID: 2100000, guid: 8e3f333363a5a244db1e78436dce860f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl065
+    second: {fileID: 2100000, guid: 6834ea55a87efd44cb3503a2468a7936, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl066
+    second: {fileID: 2100000, guid: 594b4ec8df37a7747886bf9c172e51de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl067
+    second: {fileID: 2100000, guid: f8ecd2154d01f4f45b73ab6a5e420ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl068
+    second: {fileID: 2100000, guid: 55543aad6302a704ebef8d42dff293aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl069
+    second: {fileID: 2100000, guid: a72dc82dd0ccf3948807bd970f42be06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl070
+    second: {fileID: 2100000, guid: 4e1630bc753859e4baa3194202974c59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl071
+    second: {fileID: 2100000, guid: b5a4949b07667e4499b98842337c31b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl072
+    second: {fileID: 2100000, guid: 908b5d470fe646d4fac39f68f7fc4f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl073
+    second: {fileID: 2100000, guid: f5575dff1106ef445b6f86c270b49b44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl074
+    second: {fileID: 2100000, guid: 33e9badd3b82f8248a76e5be5b42acad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl075
+    second: {fileID: 2100000, guid: 5a90726a2eb5b0c46a0330f5dbeaa9e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl076
+    second: {fileID: 2100000, guid: 4e9d0972c7ade54498109f10cfec1df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl077
+    second: {fileID: 2100000, guid: eb75a6894127c074abddfe95467beb2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl078
+    second: {fileID: 2100000, guid: 71f36b52f73f9c247b29557eb7925cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl079
+    second: {fileID: 2100000, guid: e1f723f585c33b64198dd25dfd79a874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl080
+    second: {fileID: 2100000, guid: 8f30c6b07cae5be47ab21a70823f2ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl081
+    second: {fileID: 2100000, guid: 0b63dda2c66470744ac7ee7a71393378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl082
+    second: {fileID: 2100000, guid: b9287448774c3cb43b73e949309f1610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl083
+    second: {fileID: 2100000, guid: 760a1eeea8e2151429c6494066bca85e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl084
+    second: {fileID: 2100000, guid: 59a9861c7dd620946b95bfe399461043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swirl085
+    second: {fileID: 2100000, guid: e145ee8faa315504a8eaeeae507e7542, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

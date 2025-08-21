@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b087163334465c846aaae5f8ba363f50
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163264
+  packageName: 'VR Beginner: The Escape Room'
+  packageVersion: 1.4
+  assetPath: Assets/VR Beginner/Materials/TheMaterial.mat
+  uploadId: 460758
